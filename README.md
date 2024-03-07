@@ -14,24 +14,23 @@
 - 👨‍💼: You can visit [my LinkedIn profile](https://www.linkedin.com/in/adrian-zareba/).
 <br>
   
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact with me
-<p align="left">
-	<a href="mailto:adrian.jozef.zareba@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
 
-
-## My Skills
-
-### <picture> <img src = "https://github.com/AdixPlaysGames/AdixPlaysGames/blob/main/sources/languages.gif?raw=true" width = 50px>  </picture> Programming languages
-
-### Programming Languages
+### Programming Languages and Tools
 
 - **[Java](https://www.java.com)**
 - **[Python](https://www.python.org)**
 - **[R](https://www.r-project.org/)**
 - **[SQL (Microsoft SQL Server)](https://aws.amazon.com/what-is/sql/)**
-
-
+- **[JavaScript (JS)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
+- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
+- **[MATLAB](https://www.mathworks.com/products/matlab.html)**
+- **[Power BI](https://powerbi.microsoft.com/)**
+- **[Databricks](https://databricks.com/)**
+- **[Google Cloud Platform (GCP)](https://cloud.google.com/)**
+- **[Adyen](https://www.adyen.com/)**
+- **[Jira](https://www.atlassian.com/software/jira)**
+- **[Looker Studio (formerly Google Data Studio)](https://datastudio.google.com/)**
 ---
 
 ## 🐍 A Snake Eating my Contributions Graph
